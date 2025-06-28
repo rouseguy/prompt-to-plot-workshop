@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dataset
+GoodReads_100k_books.csv
+GoodReads_decomp1.zip
+GoodReads_fixed.zip
+GoodReads_repair.zip
+
